@@ -8,4 +8,4 @@ Hence, BEEthoven was born; a resource pack that replaces bee sounds with Wolfgan
 
 Never be triggered again.  Download this pack today and fill your world with the sounds of classical music instead of angry wings.
 
-All music in this pack courtesy Nesrality on Pixabay
+All music in this pack courtesy [Nesrality](https://pixabay.com/users/nesrality-22721863/) on Pixabay
