@@ -50,6 +50,7 @@
         "subtitle": "subtitles.entity.bee.pollinate"
     },
     "block.beehive.work": {
+        "replace":true,
         "sounds": [
             { "attenuation_distance": 12, "name": "block/beehive/work/symphony-5-opening", "volume": 0.6},
             {"attenuation_distance": 12, "name": "block/beehive/work/op-13-8-mov-3-rondo-allegro-sonata", "volume": 0.6},
