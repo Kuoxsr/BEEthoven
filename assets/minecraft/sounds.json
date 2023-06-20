@@ -1,0 +1,61 @@
+{
+    "entity.bee.death": {
+        "replace":true,
+        "sounds": [
+            {"name":"mob/bee/death/piano-sonata-18", "volume": 0.5},
+            {"name":"mob/bee/death/piano-variation-17", "volume": 0.5},
+            {"name":"mob/bee/death/piano-sonata-15", "volume": 0.5}
+        ],
+        "subtitle": "subtitles.entity.bee.death"
+    },
+    "entity.bee.hurt": {
+        "replace":true,
+        "sounds": [
+            {"name": "mob/bee/hurt/op-13-8-mov-3-rondo-allegro-sonata01", "volume": 0.9},
+            {"name": "mob/bee/hurt/op-13-8-mov-3-rondo-allegro-sonata02", "volume": 0.9},
+            {"name": "mob/bee/hurt/op-13-8-mov-3-rondo-allegro-sonata03", "volume": 0.9}
+        ],
+        "subtitle": "subtitles.entity.bee.hurt"
+    },
+    "entity.bee.loop": {
+        "replace":true,
+        "sounds": [
+            {"attenuation_distance": 6, "name": "mob/bee/loop/sonata-17-loop01", "volume": 0.5},
+            {"attenuation_distance": 6, "name": "mob/bee/loop/symphony-number-7-1st-mov", "volume": 0.5},
+            {"attenuation_distance": 6, "name": "mob/bee/loop/clarinet-trio-ef-major-op38", "volume": 0.5},
+            {"attenuation_distance": 6, "name": "mob/bee/loop/op-13-8-mov-3-rondo-allegro-sonata", "volume": 0.5},
+            {"attenuation_distance": 6, "name": "mob/bee/loop/pathetique-sonata-8-op-13-2nd-mov", "volume": 0.5},
+            {"attenuation_distance": 6, "name": "mob/bee/loop/piano-sonata-04", "volume": 0.5},
+            {"attenuation_distance": 6, "name": "mob/bee/loop/turkish-march-remix", "volume": 0.5}
+        ],
+        "subtitle": "subtitles.entity.bee.loop"
+    },
+    "entity.bee.loop_aggressive": {
+        "replace":true,
+        "sounds": [
+            {"attenuation_distance": 10, "name": "mob/bee/loop-aggressive/piano-sonata-14-loop", "volume": 0.8},
+            {"attenuation_distance": 10, "name": "mob/bee/loop-aggressive/piano-sonata-17-loop", "volume": 0.8},
+            {"attenuation_distance": 10, "name": "mob/bee/loop-aggressive/piano-variation-17-loop", "volume": 0.8}
+        ],
+        "subtitle": "subtitles.entity.bee.loop_aggressive"
+    },
+    "entity.bee.pollinate": {
+        "replace":true,
+        "sounds": [
+            {"attenuation_distance": 12, "name": "mob/bee/pollinate/pathetique-sonata-opus-13-mov-2", "volume": 0.8},
+            {"attenuation_distance": 12, "name": "mob/bee/pollinate/symphony-3-eroica-2nd-mov01", "volume": 0.8},
+            {"attenuation_distance": 12, "name": "mob/bee/pollinate/symphony-3-eroica-2nd-mov02", "volume": 0.4},
+            {"attenuation_distance": 12, "name": "mob/bee/pollinate/scherzo-from-symph-9", "volume": 0.8}
+        ],
+        "subtitle": "subtitles.entity.bee.pollinate"
+    },
+    "block.beehive.work": {
+        "sounds": [
+            { "attenuation_distance": 12, "name": "block/beehive/work/symphony-5-opening", "volume": 0.6},
+            {"attenuation_distance": 12, "name": "block/beehive/work/op-13-8-mov-3-rondo-allegro-sonata", "volume": 0.6},
+            {"attenuation_distance": 12, "name": "block/beehive/work/symphony-3-eroica-2nd-mov", "volume": 0.6},
+            {"attenuation_distance": 12, "name": "block/beehive/work/piano-sonata-25", "volume": 0.6}
+        ],
+        "subtitle": "subtitles.block.beehive.work"
+    }
+}
